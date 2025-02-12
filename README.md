@@ -6,15 +6,15 @@ This project aims to detect various diseases in tea leaves using deep learning m
 ### Dataset
 The dataset contains images of tea leaves labeled with the following 8 diseases:
 
-Algal Leaf Rust
-Bug Eaten
-Healthy
-Leaf Blight
-Leaf Spot
-Nutrition Deficiency
-Red Spider Mite
-Tea Mosquito Bug
-The dataset was collected from the Bangladesh Tea Research Institute (BTRI) in Sylhet.
+ Algal Leaf Rust
+ Bug Eaten
+ Healthy
+ Leaf Blight
+ Leaf Spot
+ Nutrition Deficiency
+ Red Spider Mite
+ Tea Mosquito Bug
+ The dataset was collected from the Bangladesh Tea Research Institute (BTRI) in Sylhet.
 
 ### Features
 Disease Detection: Detects diseases in tea leaves using deep learning models.
