@@ -1,0 +1,3 @@
+Dataset Usage
+
+The dataset used in this project contains images of tea leaves with annotations for various diseases. Due to privacy and research constraints, the dataset has not been made publicly available. The dataset was collected from the Bangladesh Tea Research Institute (BTRI) in Sylhet, and access to it is restricted. If you are interested in using the dataset for research or educational purposes, please contact the Bangladesh Tea Research Institute for more information and access permissions.
